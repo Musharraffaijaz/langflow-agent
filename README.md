@@ -9,6 +9,9 @@ An end-to-end autonomous multi-agent research pipeline built with **Langflow**.
 
 This system accepts a research topic or technical prompt, pulls peer-reviewed literature from **arXiv** and real-world engineering discussions from **Reddit**, synthesizes theoretical foundations with empirical constraints, drafts an academic manuscript, generates production-ready **TikZ/pgfplots** architectural diagrams, and typesets a fully compilable **IEEEtran** LaTeX document (`.tex`).
 
+<img width="2253" height="1293" alt="Screenshot From 2026-11-22 12-25-33" src="https://github.com/user-attachments/assets/95f6335b-d7a0-41eb-bf35-76f2c15bb05d" />
+
+
 ---
 
 ## 🌟 Key Features
